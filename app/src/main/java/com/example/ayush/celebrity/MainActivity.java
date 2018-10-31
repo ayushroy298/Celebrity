@@ -24,7 +24,7 @@ import java.util.regex.Pattern;
 @RequiresApi(api = Build.VERSION_CODES.CUPCAKE)
 public class MainActivity extends AppCompatActivity {
 
-    String img;
+    String img,a;
     ImageView imageView;
 
 
