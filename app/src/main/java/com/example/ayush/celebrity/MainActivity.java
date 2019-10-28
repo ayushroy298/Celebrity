@@ -180,7 +180,7 @@ public class MainActivity extends AppCompatActivity {
             if (quesno < 49)
                 updateQuestion();
             else
-                Toast.makeText(this, "No more questions left", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "No more questions are left", Toast.LENGTH_SHORT).show();
         }
         catch(Exception e)
         {
